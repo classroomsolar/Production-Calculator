@@ -1,0 +1,14 @@
+{
+  "verified_utc_note": "2026-10-26; authenticated Wix inventory checked during handoff",
+  "site_name": "Solar PV Engineering Platform",
+  "site_id": "ec984f80-a998-4e29-a38c-ca6b85dac4f4",
+  "public_url": "https://headless-spqwsttbeuf-classroomsolar-140e.wix-site-host.com/",
+  "deployed_assets_last_observed": 253,
+  "wix_revision_last_observed": "d9b85e4e42e7059f7a92ef081496ccf68a79511b",
+  "master_pv_modules_json_bytes": 6809617,
+  "current_live_export_authenticated_url": "https://www.wix.com/_api/wixstro-deployments/v1/instant-sites/ec984f80-a998-4e29-a38c-ca6b85dac4f4/download.zip",
+  "live_export_locally_captured": false,
+  "embedded_locally_verified_source_assets": 240,
+  "warning": "The 240-file source ZIP is older than the authenticated current live 253-file site. Connect Wix and export again; do not overwrite live with older package.",
+  "access_note": "The new ChatGPT account must connect/authorize Wix separately; the download URL may require authentication."
+}
